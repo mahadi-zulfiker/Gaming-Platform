@@ -4,7 +4,7 @@ import { AuthContext } from '../auth/AuthProvider';
 import { FcGoogle } from "react-icons/fc";
 
 const Login = () => {
-    const { createUser, signToGoogle } = useContext(AuthContext);
+    const { signIn, signInWithGoogle } = useContext(AuthContext);
 
     const navigate = useNavigate();
     const location = useLocation();
@@ -16,7 +16,7 @@ const Login = () => {
         const email =  e.target.email.value;
         const password =  e.target.password.value;
         // console.log(email, password)
-        createUser(email, password)
+        signIn(email, password)
             .then((result) => {
                 navigate(location?.state ? location.state : "/");
                 console.log(result);
@@ -28,7 +28,7 @@ const Login = () => {
     }
 
     const handleToGoogle = () => {
-        signToGoogle()
+        signInWithGoogle()
             .then((result) => {
                 navigate(location?.state ? location.state : "/");
                 console.log(result);

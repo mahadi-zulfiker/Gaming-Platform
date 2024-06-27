@@ -6,7 +6,7 @@ import { FcGoogle } from "react-icons/fc";
 
 const Register = () => {
 
-    const { registerUser, signToGoogle } = useContext(AuthContext);
+    const { createUser, signInWithGoogle } = useContext(AuthContext);
 
     const navigate = useNavigate();
     const location = useLocation();
@@ -16,7 +16,7 @@ const Register = () => {
         const form = new FormData(e.currentTarget)
         const email = form.get('email');
         const password = form.get('password');
-        registerUser(email, password)
+        createUser(email, password)
             .then((result) => {
                 navigate(location?.state ? location.state : "/");
                 console.log(result);
@@ -28,7 +28,7 @@ const Register = () => {
     }
 
     const handleToGoogle = () => {
-        signToGoogle()
+        signInWithGoogle()
             .then((result) => {
                 console.log(result);
             })

@@ -4,7 +4,7 @@ import { AuthContext } from "../../auth/AuthProvider";
 
 
 const Profile = () => {
-    const { user, signOutUser } = useContext(AuthContext);
+    const { user, logOut } = useContext(AuthContext);
     // console.log(user.reloadUserInfo)
     const [img, setImg] = useState(user.reloadUserInfo.photoUrl ? user.reloadUserInfo.photoUrl : 'https://i.ibb.co/JpvKXh7/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIz-LTAx-L3-Jt-Nj-A5-LXNvb-Glka-WNvbi13-LTAw-Mi1w-Ln-Bu.webp');
 
@@ -16,7 +16,7 @@ const Profile = () => {
 
 
     const handleSignOut = () => {
-        signOutUser();
+        logOut();
     }
     return (
         <div className="pt-16 pb-32">
