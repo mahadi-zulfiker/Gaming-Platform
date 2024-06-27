@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/GcnZrRq/12-facts-about-e3-electronic-entertainment-expo-1689749545.jpg",
+      "title": "E3 Expo",
+      "detail": "Los Angeles Convention Center, Los Angeles, CA",
+      "price": "$250",
+      "time": "9:00 AM - 6:00 PM",
+      "date": "June 11-13, 2024",
+      "description": "The E3 Expo is the ultimate destination for gamers and industry professionals to experience the latest in video game technology and innovation. Held annually in Los Angeles, E3 features major announcements from top game developers and publishers, exclusive game demos, and exciting panel discussions. Whether you're a developer, a member of the press, or an enthusiastic gamer, E3 offers a unique opportunity to get a first look at upcoming titles and network with industry leaders. Don't miss out on the premier event that shapes the future of gaming."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/mJpKZYx/PAX-East-expo-hall-show-floor.webp",
+      "title": "PAX West",
+      "detail": "Seattle, WA",
+      "price": "$850",
+      "time": "10:00 AM - 11:00 PM",
+      "date": "September 2-5, 2024",
+      "description": "PAX West is a four-day celebration of gaming culture held in the heart of Seattle. Known for its inclusive and community-driven atmosphere, PAX West offers something for everyone: game demos, competitive tournaments, industry panels, and a massive expo hall filled with the latest games and gear. Whether you're into PC gaming, console gaming, tabletop games, or indie titles, PAX West is the place to be. Join thousands of fellow gamers for a weekend of fun, learning, and epic gameplay experiences."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/0BJvpf9/gamescom-Eingang.webp",
+      "title": "Gamescom",
+      "detail": "Koelnmesse, Cologne, Germany",
+      "price": "$350",
+      "time": "9:00 AM - 8:00 PM",
+      "date": "August 21-25, 2024",
+      "description": "Gamescom is Europe's largest gaming event, attracting hundreds of thousands of visitors each year to Cologne, Germany. With a focus on both entertainment and business, Gamescom features extensive game showcases, hands-on demos, and a vibrant atmosphere. Attendees can expect major announcements from top developers, engaging panel discussions, and opportunities to meet their favorite creators. Whether you're a gamer looking to play the latest titles or an industry professional seeking networking opportunities, Gamescom is an event not to be missed."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/m0RYsnV/Play-the-upcoming-Rockman-11-megaman-before-it-even-hits-the-shelfs-popular-capcom-latest-title-of-t.jpg",
+      "title": "Tokyo Game Show",
+      "detail": "Makuhari Messe, Chiba, Japan",
+      "price": "$200",
+      "time": "10:00 AM - 5:00 PM",
+      "date": "September 19-22, 2024",
+      "description": "Tokyo Game Show (TGS) is a premier event showcasing the latest in Japanese and international gaming. Held annually at the Makuhari Messe in Chiba, TGS is known for its cutting-edge technology displays, exciting game demos, and unique cultural experiences. Attendees can explore a vast array of booths featuring everything from major releases to indie gems. TGS also offers a glimpse into the future of gaming with VR and AR showcases. Whether you're a fan of JRPGs, mobile games, or the latest console hits, TGS has something for everyone."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/47VpRfN/04-10blizzcon-0.webp",
+      "title": "BlizzCon",
+      "detail": "Anaheim Convention Center, Anaheim, CA",
+      "price": "$199",
+      "time": "9:00 AM - 10:00 PM",
+      "date": "November 1-2, 2024",
+      "description": "BlizzCon is the annual convention held by Blizzard Entertainment to celebrate its major franchises, including World of Warcraft, Overwatch, Diablo, and Hearthstone. Taking place at the Anaheim Convention Center, BlizzCon features exciting announcements, in-depth developer panels, cosplay contests, and competitive eSports tournaments. Fans can meet their favorite developers, participate in exclusive Q&A sessions, and get hands-on with upcoming Blizzard games. BlizzCon is a must-attend event for any Blizzard fan looking to immerse themselves in the epic worlds Blizzard has created."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/P6mvyBd/IMG-1171.webp",
+      "title": "IndieCade",
+      "detail": "Santa Monica, CA",
+      "price": "$500",
+      "time": "10:00 AM - 6:00 PM",
+      "date": "October 10-12, 2024",
+      "description": "IndieCade is the premier event dedicated to celebrating independent games and their creators. Held in Santa Monica, IndieCade offers a unique platform for indie developers to showcase their innovative and creative projects. The festival features game demos, developer talks, workshops, and networking opportunities. Attendees can discover groundbreaking games across various genres and platforms, from VR experiences to tabletop games. IndieCade is a celebration of the indie spirit and a must-visit for anyone passionate about the future of gaming."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/rxL08gw/Dragon-Con15-Marriott-Atrium-2503-800x445.jpg",
+      "title": "Dragon Con",
+      "detail": "Atlanta, GA",
+      "price": "$140",
+      "time": "24 Hours",
+      "date": "August 30 - September 3, 2024",
+      "description": "Dragon Con is a massive multi-genre convention held annually in Atlanta, Georgia. Known for its diverse programming, Dragon Con covers everything from science fiction and fantasy to gaming and comics. The event features celebrity panels, cosplay contests, gaming tournaments, and a bustling exhibit hall. With programming running 24 hours a day, Dragon Con offers endless opportunities for fans to immerse themselves in their favorite fandoms. Whether you're a die-hard gamer or a casual fan, Dragon Con provides an unforgettable experience for all attendees."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/NKX4hg1/Minecon.webp",
+      "title": "MineCon",
+      "detail": "Location TBA",
+      "price": "$150",
+      "time": "10:00 AM - 6:00 PM",
+      "date": "September 7-8, 2024",
+      "description": "MineCon is the official convention for Minecraft enthusiasts, offering a dedicated space for fans to celebrate their love for the game. The event features interactive exhibits, hands-on workshops, and meet-and-greet sessions with Mojang developers. Attendees can participate in building competitions, explore new game updates, and connect with fellow Minecraft players from around the world. Whether you're a seasoned builder or a new adventurer, MineCon provides a fun and engaging environment to explore the limitless possibilities of Minecraft."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/dQhF4L1/Getty-Images-1163105478-bbde4c5949474063bc9bb2015cfe5234.jpg",
+      "title": "San Diego Comic-Con (SDCC)",
+      "detail": "San Diego Convention Center, San Diego, CA",
+      "price": "$275",
+      "time": "9:30 AM - 7:00 PM",
+      "date": "July 18-21, 2024",
+      "description": "San Diego Comic-Con (SDCC) is one of the most iconic conventions in the world, known for its wide-ranging focus on comics, movies, TV shows, and gaming. Held at the San Diego Convention Center, SDCC features celebrity appearances, exclusive previews, artist signings, and a massive exhibit hall. The gaming section of SDCC offers demos of upcoming games, developer panels, and eSports competitions. With its star-studded line-up and diverse programming, SDCC is a must-attend for any fan of pop culture and gaming."
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/12tRfVf/game-developers-conference-publicity-h-2020.webp",
+      "title": "Game Developers Conference (GDC)",
+      "detail": "Moscone Center, San Francisco, CA",
+      "price": "$999",
+      "time": "9:00 AM - 6:00 PM",
+      "date": "March 18-22, 2024",
+      "description": "The Game Developers Conference (GDC) is the largest annual gathering of professional video game developers. Held at the Moscone Center in San Francisco, GDC offers a week-long program of lectures, panels, and workshops covering a wide range of industry topics. Attendees can learn from leading experts, discover new tools and technologies, and network with other professionals. GDC is essential for anyone looking to advance their career in game development, offering invaluable insights and opportunities to connect with industry leaders."
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/xMckNh1/gallery-image-1662638402.jpg",
+      "title": "MAGFest (Music and Gaming Festival)",
+      "detail": "National Harbor, MD",
+      "price": "$890",
+      "time": "24 Hours",
+      "date": "January 4-7, 2024",
+      "description": "MAGFest, or the Music and Gaming Festival, is a unique event that combines video games, music, and community. Held annually at the Gaylord National Resort in National Harbor, Maryland, MAGFest offers non-stop gaming, concerts, and panels for four days straight. Attendees can enjoy a vast arcade hall, tabletop gaming, live music performances, and interactive workshops. With a focus on creating a fun and inclusive environment, MAGFest is the perfect event for gamers and music lovers alike to come together and celebrate their passions."
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/C02GMH0/download.jpg",
+      "title": "Gen Con",
+      "detail": "Indiana Convention Center, Indianapolis, IN",
+      "price": "$420",
+      "time": "10:00 AM - 10:00 PM",
+      "date": "August 1-4, 2024",
+      "description": "Gen Con is the largest tabletop gaming convention in North America, attracting fans of board games, card games, RPGs, and more. Held at the Indiana Convention Center, Gen Con offers a massive exhibit hall, game demos, tournaments, and a wide variety of panels and workshops. Whether you're a seasoned gamer or new to the hobby, Gen Con provides endless opportunities to discover new games and connect with other enthusiasts. With its diverse programming and welcoming community, Gen Con is a must-visit for any tabletop gaming fan."
+    }
+  ]
+  

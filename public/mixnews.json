@@ -1,0 +1,300 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/khNR32Y/30.webp",
+      "title": "E3 2023: New Announcements and Game Reveals",
+      "time": "June 15, 2023",
+      "publish_time": "10:00 AM",
+      "likes": 1500,
+      "description": "E3 2023 brought a wave of excitement with major game announcements and reveals from top studios. Attendees and viewers were treated to previews of highly anticipated sequels, new IPs, and advancements in gaming technology. Highlights included the reveal of a new open-world RPG from a leading developer, updates on a popular battle royale game, and the introduction of cutting-edge VR experiences. E3 2023 also featured hands-on demos, allowing players to experience upcoming games firsthand. The event emphasized the future of gaming, showcasing the innovation and creativity driving the industry forward."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/gryFynq/31.jpg",
+      "title": "Gamescom 2023: European Gaming Extravaganza",
+      "time": "August 24, 2023",
+      "publish_time": "02:00 PM",
+      "likes": 1300,
+      "description": "Gamescom 2023 in Cologne, Germany, was a celebration of gaming culture, attracting fans and industry professionals from around the world. The event featured a diverse lineup of game demos, developer panels, and esports competitions. Major announcements included new titles from European studios, updates on beloved franchises, and innovative indie games. Attendees could explore an expansive expo hall, try out upcoming releases, and participate in community events. Gamescom 2023 highlighted the vibrant and dynamic nature of the gaming industry, offering something for everyone from casual gamers to hardcore enthusiasts."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/dM8t96Z/32.webp",
+      "title": "PAX East 2024: A Gamer's Paradise",
+      "time": "April 12, 2024",
+      "publish_time": "01:15 PM",
+      "likes": 1500,
+      "description": "PAX East 2024 was a paradise for gamers, offering a wide range of activities and experiences. The event featured game demos, developer panels, and esports tournaments, attracting a diverse crowd of gaming enthusiasts. Highlights included the reveal of new games from indie developers, updates on popular franchises, and hands-on demos of upcoming titles. PAX East 2024 also hosted a tabletop gaming section, cosplay competitions, and community events. The convention emphasized the importance of community in gaming, providing a space for fans to connect with each other and with the creators behind their favorite games. PAX East 2024 reaffirmed its status as a must-attend event for gamers."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/WK60wvJ/33.jpg",
+      "title": "PlayStation Experience 2024: New Titles and Updates",
+      "time": "December 5, 2024",
+      "publish_time": "04:45 PM",
+      "likes": 1600,
+      "description": "PlayStation Experience (PSX) 2024 thrilled fans with announcements of new titles and updates on existing projects. The event featured presentations from top Sony developers, showcasing the latest advancements in PlayStation technology and exclusive game previews. Highlights included the reveal of a new action-adventure game set in a richly detailed world, updates on anticipated sequels, and the introduction of new hardware designed to enhance the gaming experience. PSX 2024 also offered hands-on demos, allowing attendees to experience upcoming games firsthand. The event underscored Sony's commitment to delivering high-quality gaming experiences and maintaining its position as a leader in the industry."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/KKTVSs4/34.jpg",
+      "title": "Tokyo Game Show 2024: Japanese Gaming at Its Best",
+      "time": "September 24, 2024",
+      "publish_time": "02:00 PM",
+      "likes": 1300,
+      "description": "Tokyo Game Show (TGS) 2024 showcased the best of Japanese gaming, with a strong focus on both domestic and international titles. Major announcements included new entries in beloved JRPG series, cutting-edge VR experiences, and innovative indie games. The event featured extensive demos, giving attendees the chance to try out upcoming releases and experience the latest in gaming technology. TGS 2024 also hosted panels with industry veterans, discussing trends and challenges in game development. The convention highlighted the unique contributions of Japanese developers to the global gaming industry and provided a platform for cross-cultural exchange and collaboration."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/8cQKMR4/35.webp",
+      "title": "DreamHack 2024: The Ultimate Gaming Festival",
+      "time": "June 30, 2024",
+      "publish_time": "05:00 PM",
+      "likes": 1700,
+      "description": "DreamHack 2024 was the ultimate gaming festival, featuring a mix of esports, music, and gaming culture. The event included major esports tournaments with significant prize pools, live music performances, and an expo hall filled with the latest gaming gear and merchandise. Attendees could participate in LAN parties, meet their favorite streamers, and try out new games before their release. DreamHack 2024 also emphasized community, with areas dedicated to tabletop gaming, cosplay, and fan meetups. The festival offered a comprehensive celebration of gaming culture, attracting fans from around the globe to share in their passion."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/pZ86vpC/36.jpg",
+      "title": "EGX 2024: UK's Premier Gaming Event",
+      "time": "September 20, 2024",
+      "publish_time": "11:00 AM",
+      "likes": 850,
+      "description": "EGX 2024, held in London, was the UK's premier gaming event, attracting gamers from across the country and beyond. The convention featured a wide range of activities, including game demos, developer sessions, and esports tournaments. Major highlights included the unveiling of several new games by UK-based studios, discussions on the future of game design, and a focus on VR and AR technologies. EGX 2024 also hosted an indie showcase, highlighting innovative games from independent developers. The event provided a comprehensive look at the current state and future of gaming, offering something for everyone from casual players to industry professionals."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/L8pNk2d/37.jpg",
+      "title": "San Diego Comic-Con 2024: Gaming Highlights",
+      "time": "July 25, 2024",
+      "publish_time": "10:15 AM",
+      "likes": 1900,
+      "description": "San Diego Comic-Con 2024 was not just about comics and movies; it also featured significant gaming highlights. Major game studios used the platform to announce new titles, provide updates on existing projects, and showcase exclusive content. Highlights included the reveal of a new superhero game based on a popular comic series, updates on highly anticipated RPGs, and special panels with game developers. The event also hosted cosplay competitions, where fans dressed as their favorite game characters, and interactive exhibits that allowed attendees to immerse themselves in their favorite gaming worlds. Comic-Con 2024 demonstrated the deep connection between gaming and broader pop culture."
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/QMCk0DW/14.jpg",
+      "title": "MineCon 2024: Celebrating All Things Minecraft",
+      "time": "September 10, 2024",
+      "publish_time": "09:30 AM",
+      "likes": 950,
+      "description": "MineCon 2024 celebrated all things Minecraft, bringing together fans from around the world to share their love for the game. The event featured panels with Mojang developers, where they discussed the future of Minecraft, including new updates and features. Attendees could participate in building competitions, explore creative showcases, and attend workshops on various aspects of the game. Highlights included the announcement of a major new update, introducing new biomes and mechanics, and a sneak peek at upcoming community events. MineCon 2024 reinforced the enduring popularity of Minecraft and the strong community that surrounds it."
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/hRtXGXX/15.jpg",
+      "title": "Golden Joystick Awards 2024: Honoring Gaming Excellence",
+      "time": "November 22, 2024",
+      "publish_time": "07:30 PM",
+      "likes": 1150,
+      "description": "The Golden Joystick Awards 2024 honored gaming excellence, celebrating the best games, developers, and innovations of the past year. The ceremony featured a range of categories, from Best Storytelling to Best Esports Game, recognizing achievements across the industry. Highlights included a critically acclaimed indie game winning multiple awards, a beloved RPG taking home the Game of the Year title, and a special lifetime achievement award for a veteran game designer. The event also included world premieres of upcoming games and exclusive interviews with developers. The Golden Joystick Awards 2024 highlighted the diversity and creativity of the gaming industry, honoring those who push the medium forward."
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/3CNNVWn/16.jpg",
+      "title": "CES 2025: Cutting-Edge Gaming Technology",
+      "time": "January 7, 2025",
+      "publish_time": "11:00 AM",
+      "likes": 1400,
+      "description": "CES 2025 is expected to showcase the latest in gaming technology, with major announcements from leading hardware and software companies. Attendees can look forward to demonstrations of cutting-edge graphics cards, innovative VR headsets, and next-gen consoles. Highlights will likely include new advancements in AI and machine learning for game development, as well as immersive gaming experiences powered by the latest technology. CES 2025 will also feature panels on the future of gaming tech, networking opportunities for professionals, and an expo hall filled with the latest gadgets and gear. The event will highlight how technological innovation continues to drive the gaming industry forward."
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/g6W0nwr/17.jpg",
+      "title": "SXSW 2025: Gaming Meets Culture",
+      "time": "March 10, 2025",
+      "publish_time": "09:00 AM",
+      "likes": 1300,
+      "description": "SXSW 2025 will blend gaming with broader cultural trends, offering a unique platform for exploring the intersection of these worlds. The event will feature game demos, panels on game design and storytelling, and discussions on the cultural impact of gaming. Attendees can expect to see new indie games that push the boundaries of traditional gameplay, as well as updates on major titles. SXSW 2025 will also host a gaming expo, live esports tournaments, and networking events for developers and creatives. The event aims to highlight how gaming influences and is influenced by other cultural domains, emphasizing the medium's role in contemporary society."
+    },
+    {
+      "id": 13,
+      "img": "https://i.ibb.co/HdzgD0S/18.jpg",
+      "title": "BlizzCon 2025: New Adventures Await",
+      "time": "November 15, 2025",
+      "publish_time": "12:00 PM",
+      "likes": 1800,
+      "description": "BlizzCon 2025 is poised to be an exciting event for Blizzard fans, with new expansions for popular titles and exciting game reveals. Attendees can expect major announcements, including the next expansion for a beloved MMORPG and a new hero for a popular team-based shooter. In addition to game announcements, the event will host panels with developers, esports tournaments, and community events. BlizzCon 2025 will underscore Blizzard's commitment to evolving its games and engaging with its passionate fanbase. Attendees and virtual participants alike are eagerly anticipating the updates and previews that BlizzCon 2025 will bring."
+    },
+    {
+      "id": 14,
+      "img": "https://i.ibb.co/hMgdS8k/19.jpg",
+      "title": "GDC 2025: Shaping the Future of Game Development",
+      "time": "March 18, 2025",
+      "publish_time": "03:30 PM",
+      "likes": 1100,
+      "description": "The Game Developers Conference (GDC) 2025 will showcase the latest innovations in game development, offering a platform for industry professionals to share insights and advancements. Keynote speeches will focus on the future of game design, including the integration of AI and machine learning to create more responsive and immersive worlds. Panels and workshops will cover a range of topics, from narrative design and player engagement to technical advancements in graphics and sound. GDC 2025 will also feature an expo where developers can demo their latest projects and tools. The event will highlight the collaborative nature of the gaming industry and the ongoing pursuit of innovation."
+    },
+    {
+      "id": 15,
+      "img": "https://i.ibb.co/Dbsg8jB/20.jpg",
+      "title": "EVO 2025: The Ultimate Fighting Game Tournament",
+      "time": "July 25, 2025",
+      "publish_time": "01:00 PM",
+      "likes": 1300,
+      "description": "EVO 2025 will bring together the best fighting game players from around the world for an intense competition. The tournament will feature classic titles as well as new entries in the genre, with players showcasing their skills in front of a global audience. Key moments are expected to include unexpected upsets and thrilling matches that will keep viewers on the edge of their seats. The event will also include announcements of upcoming fighting games and updates for existing ones. EVO 2025 will celebrate the competitive spirit of fighting games and highlight the community and camaraderie among players and fans."
+    },
+    {
+      "id": 16,
+      "img": "https://i.ibb.co/C5bhLFd/21.jpg",
+      "title": "Gamescom 2025: Anticipated Reveals",
+      "time": "August 23, 2025",
+      "publish_time": "09:00 AM",
+      "likes": 1700,
+      "description": "Gamescom 2025 is set to provide a glimpse into the future of gaming with highly anticipated announcements and demos. Major presentations from top developers will showcase the latest in gaming technology and design. Highlights are expected to include a new open-world adventure game, advancements in VR technology, and updates on highly anticipated sequels. The convention will also host panels on industry trends, esports competitions, and networking opportunities for professionals. With a focus on innovation and player engagement, Gamescom 2025 is poised to be a significant event in the gaming calendar, offering exciting insights into upcoming games and technologies."
+    },
+    {
+      "id": 17,
+      "img": "https://i.ibb.co/B3y1c1t/22.jpg",
+      "title": "Insomnia Gaming Festival 2024: A 24/7 Gaming Marathon",
+      "time": "August 20, 2024",
+      "publish_time": "06:00 PM",
+      "likes": 950,
+      "description": "The Insomnia Gaming Festival 2024 was a 24/7 gaming marathon, offering nonstop entertainment and activities for attendees. The event featured a massive LAN party, esports tournaments, and an exhibit hall filled with the latest gaming tech and merchandise. Highlights included a cosplay competition, meet-and-greet sessions with popular streamers, and exclusive game demos. The festival also hosted panels and workshops on various aspects of gaming, from game development to streaming tips. Insomnia Gaming Festival 2024 provided a comprehensive celebration of gaming culture, attracting fans from all over the world to immerse themselves in the nonstop action."
+    },
+    {
+      "id": 18,
+      "img": "https://i.ibb.co/9nHd69Y/23.jpg",
+      "title": "PAX West 2025: Upcoming Highlights",
+      "time": "August 28, 2025",
+      "publish_time": "10:30 AM",
+      "likes": 1600,
+      "description": "PAX West 2025 is gearing up to be an exciting event, with a packed schedule of panels, tournaments, and game demos. Highlights are expected to include the return of several beloved indie games, a competitive esports tournament, and exclusive developer sessions. This year, the convention will emphasize inclusivity and diversity in gaming, featuring special events and discussions aimed at creating a more welcoming community. Attendees will have the opportunity to meet developers, participate in tournaments, and explore a bustling expo hall filled with the latest games and merchandise. PAX West 2025 promises to be a celebration of gaming culture and a showcase for the industry's future."
+    },
+    {
+      "id": 19,
+      "img": "https://i.ibb.co/Q951MWK/24.jpg",
+      "title": "CeBIT 2024: Technology and Gaming Innovations",
+      "time": "June 25, 2024",
+      "publish_time": "09:15 AM",
+      "likes": 800,
+      "description": "CeBIT 2024 showcased the latest innovations in technology and gaming, offering a glimpse into the future of the industry. The event featured presentations from leading tech companies, demos of cutting-edge gaming hardware, and discussions on emerging trends. Highlights included the reveal of a new VR headset with advanced features, updates on AI-driven game development tools, and previews of next-gen gaming consoles. CeBIT 2024 also hosted panels on cybersecurity, digital marketing, and the impact of technology on society. The event emphasized the intersection of technology and gaming, highlighting how advancements in one area can drive innovation in the other."
+    },
+    {
+      "id": 20,
+      "img": "https://i.ibb.co/gDvKssK/25.jpg",
+      "title": "IndieCade 2025: Celebrating Independent Games",
+      "time": "October 12, 2025",
+      "publish_time": "02:15 PM",
+      "likes": 900,
+      "description": "IndieCade 2025 will once again spotlight the creativity and innovation of independent developers, highlighting unique games that push the boundaries of the medium. The event will feature a diverse lineup of titles, from thought-provoking narrative experiences to groundbreaking gameplay mechanics. Attendees will have the opportunity to meet the developers behind these projects and gain insight into their creative processes. Standout games are expected to include emotional journeys, innovative puzzle platformers, and cooperative multiplayer experiences. IndieCade 2025 will reinforce the importance of supporting independent developers and exploring new gaming experiences that offer fresh perspectives and inventive designs."
+    },
+    {
+      "id": 21,
+      "img": "https://i.ibb.co/sqZ7L0H/26.jpg",
+      "title": "PC Gaming Show 2024: The Best of PC Gaming",
+      "time": "June 5, 2024",
+      "publish_time": "11:45 AM",
+      "likes": 1600,
+      "description": "The PC Gaming Show 2024 showcased the best in PC gaming, with announcements of new hardware, software, and games. Major highlights included the reveal of a high-performance graphics card, updates on popular PC-exclusive titles, and demonstrations of innovative mods and custom builds. The show also featured panels with industry experts discussing the future of PC gaming, including advancements in AI, VR, and streaming technologies. Attendees had the chance to try out new games, interact with developers, and explore the latest in gaming peripherals. The PC Gaming Show 2024 reinforced the platform's reputation for cutting-edge performance and creativity."
+    },
+    {
+      "id": 22,
+      "img": "https://i.ibb.co/sqZ7L0H/26.jpg",
+      "title": "VRLA 2024: Exploring the Future of VR",
+      "time": "September 5, 2024",
+      "publish_time": "02:00 PM",
+      "likes": 750,
+      "description": "VRLA 2024 brought together VR enthusiasts and professionals to explore the latest advancements in virtual reality technology. The event featured demos of cutting-edge VR experiences, panels on the future of VR development, and discussions on the impact of VR on various industries. Highlights included the unveiling of a new VR headset with enhanced features, updates on VR games and applications, and workshops on VR content creation. VRLA 2024 also hosted networking opportunities for developers, researchers, and investors. The event emphasized the potential of VR to transform entertainment, education, and other fields, highlighting its growing importance in the tech landscape."
+    },
+    {
+      "id": 23,
+      "img": "https://i.ibb.co/xfjY9Hk/27.jpg",
+      "title": "Electronic Game Show 2025: Upcoming Gaming Trends",
+      "time": "October 18, 2025",
+      "publish_time": "01:00 PM",
+      "likes": 1300,
+      "description": "The Electronic Game Show (EGS) 2025 will highlight upcoming trends in the gaming industry, with a focus on innovation and player engagement. The event will feature presentations from top developers, game demos, and panels on various aspects of game design and development. Attendees can expect announcements of new games, updates on popular franchises, and demonstrations of the latest gaming technology. EGS 2025 will also host esports tournaments, cosplay contests, and networking opportunities for industry professionals. The event aims to provide a comprehensive overview of the current state of gaming and its future directions, showcasing the creativity and ingenuity of developers worldwide."
+    },
+    {
+      "id": 24,
+      "img": "https://i.ibb.co/9s5Cqpj/28.jpg",
+      "title": "MegaCon 2024: A Celebration of Pop Culture and Gaming",
+      "time": "May 15, 2024",
+      "publish_time": "12:00 PM",
+      "likes": 1800,
+      "description": "MegaCon 2024 celebrated pop culture and gaming, attracting fans of all ages to a vibrant event filled with activities and experiences. The convention featured a diverse lineup of panels, game demos, and cosplay competitions. Major highlights included the announcement of new games based on popular comic book series, updates on highly anticipated movie tie-in games, and exclusive merchandise releases. MegaCon 2024 also hosted meet-and-greet sessions with celebrities from the gaming and entertainment industries. The event provided a platform for fans to engage with their favorite franchises and discover new ones, emphasizing the interconnectedness of gaming and broader pop culture."
+    },
+    {
+      "id": 25,
+      "img": "https://i.ibb.co/khNR32Y/30.webp",
+      "title": "E3 2025: Anticipated Game Reveals",
+      "time": "June 12, 2025",
+      "publish_time": "09:30 AM",
+      "likes": 1500,
+      "description": "E3 2025 is set to deliver a host of anticipated game reveals and updates from the biggest names in the industry. Attendees can expect major announcements, including new entries in beloved franchises, innovative new IPs, and advancements in gaming technology. Highlights are likely to include the reveal of a new action RPG, updates on a highly anticipated open-world game, and the introduction of next-gen VR experiences. E3 2025 will also feature hands-on demos, giving players the chance to experience upcoming titles firsthand. The event aims to highlight the future of gaming, showcasing the creativity and innovation driving the industry forward."
+    },
+    {
+      "id": 26,
+      "img": "https://i.ibb.co/3FXDRqK/29.webp",
+      "title": "PAX Australia 2024: A Diverse Gaming Experience",
+      "time": "October 11, 2024",
+      "publish_time": "04:00 PM",
+      "likes": 850,
+      "description": "PAX Australia 2024 offered a diverse gaming experience, attracting attendees from around the region and beyond. The convention featured a wide range of activities, including game demos, developer panels, and esports tournaments. Major highlights included the reveal of new games from Australian studios, discussions on the future of indie game development, and a focus on VR and AR technologies. PAX Australia 2024 also hosted an indie showcase, highlighting innovative games from independent developers. The event provided a comprehensive look at the current state and future of gaming, offering something for everyone from casual players to industry professionals."
+    },
+    {
+      "id": 27,
+      "img": "https://i.ibb.co/gryFynq/31.jpg",
+      "title": "Retro Gaming Expo 2025: Celebrating Classic Games",
+      "time": "April 18, 2025",
+      "publish_time": "01:30 PM",
+      "likes": 1100,
+      "description": "The Retro Gaming Expo 2025 celebrated classic games and the history of the gaming industry. The event featured a wide range of activities, including panels with industry veterans, retro game tournaments, and a marketplace filled with vintage games and memorabilia. Highlights included the unveiling of a new documentary on the history of gaming, updates on efforts to preserve classic games, and hands-on demos of vintage arcade machines. The Retro Gaming Expo 2025 provided a nostalgic look at the past, while also exploring the ways in which classic games continue to influence modern gaming culture."
+    },
+    {
+      "id": 28,
+      "img": "https://i.ibb.co/dM8t96Z/32.webp",
+      "title": "SteelSeries GG 2024: Gaming Hardware Innovations",
+      "time": "May 20, 2024",
+      "publish_time": "03:00 PM",
+      "likes": 950,
+      "description": "SteelSeries GG 2024 showcased the latest innovations in gaming hardware, featuring presentations from top developers and hands-on demos of new products. Highlights included the reveal of a new line of high-performance gaming peripherals, updates on the latest gaming headsets, and demonstrations of cutting-edge keyboard and mouse technology. The event also hosted panels on the future of gaming hardware, discussing advancements in design, functionality, and ergonomics. SteelSeries GG 2024 provided attendees with a comprehensive look at the future of gaming hardware, emphasizing the importance of high-quality equipment in enhancing the gaming experience."
+    },
+    {
+      "id": 29,
+      "img": "https://i.ibb.co/KKTVSs4/34.jpg",
+      "title": "TwitchCon 2024: Streamer Community Spotlight",
+      "time": "October 20, 2024",
+      "publish_time": "02:00 PM",
+      "likes": 1900,
+      "description": "TwitchCon 2024 celebrated the streamer community, offering a platform for content creators and fans to connect and share their passion for gaming. The event featured panels with popular streamers, live broadcasts, and interactive exhibits. Highlights included announcements of new Twitch features, updates on community initiatives, and exclusive merchandise. Attendees could participate in meet-and-greet sessions, attend workshops on streaming tips and tricks, and compete in gaming tournaments. TwitchCon 2024 underscored the importance of community in the streaming world, providing a space for creators and viewers to come together and celebrate their shared love of gaming."
+    },
+    {
+      "id": 30,
+      "img": "https://i.ibb.co/8cQKMR4/35.webp",
+      "title": "PAX South 2025: A Gaming Extravaganza",
+      "time": "January 23, 2025",
+      "publish_time": "11:30 AM",
+      "likes": 1600,
+      "description": "PAX South 2025 will be a gaming extravaganza, offering a wide range of activities and experiences for attendees. The event will feature game demos, developer panels, and esports tournaments, attracting a diverse crowd of gaming enthusiasts. Highlights are expected to include the reveal of new games from indie developers, updates on popular franchises, and hands-on demos of upcoming titles. PAX South 2025 will also host a tabletop gaming section, cosplay competitions, and community events. The convention aims to emphasize the importance of community in gaming, providing a space for fans to connect with each other and with the creators behind their favorite games."
+    },
+    {
+      "id": 31,
+      "img": "https://i.ibb.co/pZ86vpC/36.jpg",
+      "title": "Game Developers Choice Awards 2024: Celebrating Excellence",
+      "time": "March 20, 2024",
+      "publish_time": "05:00 PM",
+      "likes": 1300,
+      "description": "The Game Developers Choice Awards (GDCA) 2024 celebrated excellence in game development, honoring the best games and creators of the past year. The ceremony featured a range of categories, from Best Narrative to Best Technology, recognizing achievements across the industry. Highlights included a critically acclaimed indie game winning multiple awards, a popular multiplayer game being honored for its community support, and a lifetime achievement award presented to a legendary game designer. The GDCA 2024 showcased the creativity, innovation, and dedication of game developers, emphasizing the impact of their work on the gaming community and the industry as a whole."
+    },
+    {
+      "id": 32,
+      "img": "https://i.ibb.co/L8pNk2d/37.jpg",
+      "title": "Fan Expo 2024: Gaming and Pop Culture Unite",
+      "time": "July 10, 2024",
+      "publish_time": "04:45 PM",
+      "likes": 900,
+      "description": "Fan Expo 2024 brought together gaming and pop culture enthusiasts for a weekend of excitement and entertainment. The event featured a diverse lineup of panels, game demos, and cosplay competitions, attracting fans from various fandoms. Highlights included announcements of new games based on popular TV shows and movies, updates on highly anticipated game releases, and exclusive merchandise. Fan Expo 2024 also hosted meet-and-greet sessions with celebrities from the gaming and entertainment industries, providing fans with a unique opportunity to interact with their favorite stars. The event emphasized the interconnectedness of gaming and broader pop culture, offering something for everyone to enjoy."
+    },
+    {
+      "id": 33,
+      "img": "https://i.ibb.co/WK60wvJ/33.jpg",
+      "title": "Summer Games Fest 2024: A Celebration of Gaming",
+      "time": "June 15, 2024",
+      "publish_time": "02:30 PM",
+      "likes": 1000,
+      "description": "Summer Games Fest 2024 celebrated the best in gaming with a series of announcements, demos, and events. The festival featured presentations from top developers, showcasing upcoming games and updates for popular titles. Highlights included the reveal of a new fantasy RPG, updates on a highly anticipated sci-fi game, and announcements of expansions for beloved franchises. Summer Games Fest 2024 also hosted panels on game development, esports tournaments, and community events. The festival provided a platform for gamers to connect, discover new games, and celebrate their shared passion for the medium."
+    }
+  ]
+  

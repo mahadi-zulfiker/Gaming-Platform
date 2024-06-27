@@ -1,0 +1,93 @@
+[
+    {
+      "id": 26,
+      "img": "images/e3_2025.jpg",
+      "title": "E3 2025: What to Expect",
+      "publish_time": "08:00 AM",
+      "time": "June 20, 2025",
+      "likes": 1800,
+      "description": "E3 2025 promises to be one of the biggest gaming events of the year, with major announcements and game reveals from top studios. Attendees can expect to see new entries in popular franchises, innovative indie games, and advancements in VR technology. Rumors suggest that a highly anticipated sequel to a beloved RPG will be unveiled, along with a new IP from a renowned developer. The event will also feature hands-on demos, allowing players to experience upcoming games firsthand. With a focus on next-gen graphics and immersive gameplay, E3 2025 is set to highlight the future of gaming. Fans around the world are eagerly anticipating the surprises and insights that E3 will bring."
+    },
+    {
+      "id": 27,
+      "img": "images/pax_west_2025.jpg",
+      "title": "PAX West 2025: Upcoming Highlights",
+      "publish_time": "10:30 AM",
+      "time": "August 28, 2025",
+      "likes": 1600,
+      "description": "PAX West 2025 is gearing up to be an exciting event, with a packed schedule of panels, tournaments, and game demos. Highlights are expected to include the return of several beloved indie games, a competitive esports tournament, and exclusive developer sessions. This year, the convention will emphasize inclusivity and diversity in gaming, featuring special events and discussions aimed at creating a more welcoming community. Attendees will have the opportunity to meet developers, participate in tournaments, and explore a bustling expo hall filled with the latest games and merchandise. PAX West 2025 promises to be a celebration of gaming culture and a showcase for the industry's future."
+    },
+    {
+      "id": 28,
+      "img": "images/gamescom_2025.jpg",
+      "title": "Gamescom 2025: Anticipated Reveals",
+      "publish_time": "09:00 AM",
+      "time": "August 23, 2025",
+      "likes": 1700,
+      "description": "Gamescom 2025 is set to provide a glimpse into the future of gaming with highly anticipated announcements and demos. Major presentations from top developers will showcase the latest in gaming technology and design. Highlights are expected to include a new open-world adventure game, advancements in VR technology, and updates on highly anticipated sequels. The convention will also host panels on industry trends, esports competitions, and networking opportunities for professionals. With a focus on innovation and player engagement, Gamescom 2025 is poised to be a significant event in the gaming calendar, offering exciting insights into upcoming games and technologies."
+    },
+    {
+      "id": 29,
+      "img": "images/indiecade_2025.jpg",
+      "title": "IndieCade 2025: Celebrating Independent Games",
+      "publish_time": "02:15 PM",
+      "time": "October 12, 2025",
+      "likes": 900,
+      "description": "IndieCade 2025 will once again spotlight the creativity and innovation of independent developers, highlighting unique games that push the boundaries of the medium. The event will feature a diverse lineup of titles, from thought-provoking narrative experiences to groundbreaking gameplay mechanics. Attendees will have the opportunity to meet the developers behind these projects and gain insight into their creative processes. Standout games are expected to include emotional journeys, innovative puzzle platformers, and cooperative multiplayer experiences. IndieCade 2025 will reinforce the importance of supporting independent developers and exploring new gaming experiences that offer fresh perspectives and inventive designs."
+    },
+    {
+      "id": 30,
+      "img": "images/blizzcon_2025.jpg",
+      "title": "BlizzCon 2025: New Adventures Await",
+      "publish_time": "12:00 PM",
+      "time": "November 15, 2025",
+      "likes": 1800,
+      "description": "BlizzCon 2025 is poised to be an exciting event for Blizzard fans, with new expansions for popular titles and exciting game reveals. Attendees can expect major announcements, including the next expansion for a beloved MMORPG and a new hero for a popular team-based shooter. In addition to game announcements, the event will host panels with developers, esports tournaments, and community events. BlizzCon 2025 will underscore Blizzard's commitment to evolving its games and engaging with its passionate fanbase. Attendees and virtual participants alike are eagerly anticipating the updates and previews that BlizzCon 2025 will bring."
+    },
+    {
+      "id": 31,
+      "img": "images/evo_2025.jpg",
+      "title": "EVO 2025: The Ultimate Fighting Game Tournament",
+      "publish_time": "01:00 PM",
+      "time": "July 25, 2025",
+      "likes": 1300,
+      "description": "EVO 2025 will bring together the best fighting game players from around the world for an intense competition. The tournament will feature classic titles as well as new entries in the genre, with players showcasing their skills in front of a global audience. Key moments are expected to include unexpected upsets and thrilling matches that will keep viewers on the edge of their seats. The event will also include announcements of upcoming fighting games and updates for existing ones. EVO 2025 will celebrate the competitive spirit of fighting games and highlight the community and camaraderie among players and fans."
+    },
+    {
+      "id": 32,
+      "img": "images/gdc_2025.jpg",
+      "title": "GDC 2025: Shaping the Future of Game Development",
+      "publish_time": "03:30 PM",
+      "time": "March 18, 2025",
+      "likes": 1100,
+      "description": "The Game Developers Conference (GDC) 2025 will showcase the latest innovations in game development, offering a platform for industry professionals to share insights and advancements. Keynote speeches will focus on the future of game design, including the integration of AI and machine learning to create more responsive and immersive worlds. Panels and workshops will cover a range of topics, from narrative design and player engagement to technical advancements in graphics and sound. GDC 2025 will also feature an expo where developers can demo their latest projects and tools. The event will highlight the collaborative nature of the gaming industry and the ongoing pursuit of innovation."
+    },
+    {
+      "id": 33,
+      "img": "images/paris_games_week_2025.jpg",
+      "title": "Paris Games Week 2025: A Showcase of Excellence",
+      "publish_time": "09:00 AM",
+      "time": "October 27, 2025",
+      "likes": 1200,
+      "description": "Paris Games Week 2025 will highlight the best in French and international gaming, featuring a wide array of game demos, panels, and special events. This year’s show will focus on the artistic side of game development, with several indie games expected to stand out for their unique visual styles and innovative mechanics. Major studios will take the stage to announce new titles and provide updates on highly anticipated games. The event will celebrate the rich history and vibrant future of gaming in France, offering attendees a chance to meet developers, participate in tournaments, and enjoy exclusive previews. Paris Games Week 2025 will reaffirm its status as a key event in the gaming calendar."
+    },
+    {
+      "id": 34,
+      "img": "images/brazil_game_show_2025.jpg",
+      "title": "Brazil Game Show 2025: A Gaming Extravaganza",
+      "publish_time": "10:30 AM",
+      "time": "October 10, 2025",
+      "likes": 1000,
+      "description": "The Brazil Game Show (BGS) 2025 will be a major event for the Latin American gaming community, attracting both local and international developers. The convention will feature a variety of game demos, esports competitions, and panels discussing the future of gaming in the region. Highlights are expected to include the announcement of several new games by Brazilian developers, showcasing the talent and creativity within the local industry. Additionally, major global publishers will use the platform to reveal new content and updates for their games. BGS 2025 will emphasize the growing importance of the Latin American market in the global gaming landscape and provide a vibrant space for fans and professionals to connect."
+    },
+    {
+      "id": 35,
+      "img": "images/game_awards_2025.jpg",
+      "title": "The Game Awards 2025: Honoring the Best in Gaming",
+      "publish_time": "08:00 PM",
+      "time": "December 10, 2025",
+      "likes": 2200,
+      "description": "The Game Awards 2025 will honor the best games and creators in the industry with a night of celebration and recognition. The ceremony will feature performances, world premieres of upcoming games, and the presentation of awards across multiple categories. Key winners are expected to include a critically acclaimed RPG and an indie game that has received accolades for its innovative design and emotional storytelling. The event will also spotlight emerging talents and offer a platform for developers to share their visions for the future of gaming. The Game Awards 2025 will not only celebrate the achievements of the past year but also look ahead to the exciting developments on the horizon."
+    }
+  ]
+  
