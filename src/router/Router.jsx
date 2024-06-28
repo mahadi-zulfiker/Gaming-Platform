@@ -1,8 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import Root from "./Root";
 import Home from "../component/Home";
-import Register from "../sign-up-in/Register";
-import Login from "../sign-up-in/Login";
 import About from "../component/detailSection/About";
 // import Conventions from "../component/detailSection/Conventions";
 import Blog from "../component/detailSection/Blog";
@@ -13,6 +11,8 @@ import PreviousNews from "../component/detailSection/PreviousNews";
 import BuyTicket from "../component/BuyTicket";
 import Profile from "../component/detailSection/Profile";
 import Secure from "../auth/Secure";
+import Registration from "../Authentication/Register";
+import Login from "../Authentication/Login";
 
 
 const router = createBrowserRouter([
@@ -26,8 +26,8 @@ const router = createBrowserRouter([
                 element: <Home></Home>
             },
             {
-                path: "/register",
-                element: <Register></Register>
+                path: "/registration",
+                element: <Registration></Registration>
             },
             {
                 path: "/login",

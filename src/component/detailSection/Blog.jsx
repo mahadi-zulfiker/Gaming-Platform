@@ -10,7 +10,7 @@ import { AuthContext } from "../../auth/AuthProvider";
 
 const Blog = () => {
 
-    const {  signToGoogle } = useContext(AuthContext);
+    const {  signInWithGoogle } = useContext(AuthContext);
 
     const [allNewsHide, setAllNewsHide] = useState('hidden');
     const [btnStyle1, setBtnStyle1] = useState('no-underline');
@@ -54,7 +54,7 @@ const Blog = () => {
     }
 
     const handleToGoogle=()=>{
-        signToGoogle()
+        signInWithGoogle()
         .then((result) => {
             console.log(result);
                         })
