@@ -9,7 +9,6 @@ import {
   signInWithEmailAndPassword,
   signInWithPopup,
   signOut,
-  updateProfile,
 } from 'firebase/auth'
 import { app } from '../firebase/firebase.config'
 import useAxiosPublic from '../hooks/useAxiosPublic'
@@ -49,12 +48,15 @@ const AuthProvider = ({ children }) => {
     return signOut(auth)
   }
 
-  const updateUserProfile = (name, photo) => {
-    return updateProfile(auth.currentUser, {
-      displayName: name,
-      photoURL: photo,
-    })
-  }
+  const updateUserProfile = (newImage) => {
+    setUser((prevUser) => ({
+        ...prevUser,
+        reloadUserInfo: {
+            ...prevUser.reloadUserInfo,
+            photoUrl: newImage,
+        },
+    }));
+};
 
   // onAuthStateChange
   useEffect(() => {

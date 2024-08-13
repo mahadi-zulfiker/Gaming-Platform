@@ -4,7 +4,7 @@ import { AuthContext } from "../auth/AuthProvider";
 
 const Navbar = () => {
     const { user } = useContext(AuthContext);
-    const [users] = useState('https://i.ibb.co/JpvKXh7/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIz-LTAx-L3-Jt-Nj-A5-LXNvb-Glka-WNvbi13-LTAw-Mi1w-Ln-Bu.webp');
+    const [defaultUserImage] = useState('https://i.ibb.co/JpvKXh7/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIz-LTAx-L3-Jt-Nj-A5-LXNvb-Glka-WNvbi13-LTAw-Mi1w-Ln-Bu.webp');
 
     return (
         <div className="border-b-4 border-black">
@@ -27,10 +27,10 @@ const Navbar = () => {
                 {/* User Profile or Login */}
                 <div className="flex items-center">
                     {user ? (
-                        <Link to="/Profile">
+                        <Link to="/profile">
                             <img
-                                className="w-12 h-12 rounded-full font-bold text-lg hover:bg-red-300"
-                                src={user.reloadUserInfo.photoUrl ? user.reloadUserInfo.photoUrl : users}
+                                className="w-12 h-12 rounded-full object-cover border-2 border-black"
+                                src={user.reloadUserInfo?.photoUrl || defaultUserImage}
                                 alt="User Profile"
                             />
                         </Link>
@@ -58,4 +58,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
 

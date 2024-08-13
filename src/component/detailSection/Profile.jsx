@@ -2,7 +2,7 @@ import { useContext, useState } from "react";
 import { AuthContext } from "../../auth/AuthProvider";
 
 const Profile = () => {
-    const { user, logOut } = useContext(AuthContext);
+    const { user, logOut, updateProfileImage } = useContext(AuthContext);
     const [img, setImg] = useState(
         user.reloadUserInfo.photoUrl
             ? user.reloadUserInfo.photoUrl
@@ -10,7 +10,9 @@ const Profile = () => {
     );
 
     const handleChange = (e) => {
-        setImg(URL.createObjectURL(e.target.files[0]));
+        const newImg = URL.createObjectURL(e.target.files[0]);
+        setImg(newImg);
+        updateProfileImage(newImg); // Update profile image in context
     };
 
     const handleSignOut = () => {
@@ -54,3 +56,4 @@ const Profile = () => {
 };
 
 export default Profile;
+
